@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ptonky
-- 👀 I’m interested in ...
 - 🌱 I’m currently taking a fullstack Software Developing course via Springboard
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at: prestonitong@gmail.com
 
 <!---
 ptonky/ptonky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
